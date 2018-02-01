@@ -2506,7 +2506,7 @@ Sobald Sie die Beträge erhalten haben, kommen Sie bitte wieder zurück zu diese
     'recover' => 'Wiederherstellen',
     'apply' => 'Anwenden',
     'recover_white_label_header' => 'White-Label-Lizenz wiederherstellen',
-    'apply_white_label_header' => 'White-Label-Lizent wiederherstellen',
+    'apply_white_label_header' => 'White-Label-Lizenz wiederherstellen',
     'videos' => 'Videos',
     'video' => 'Video',
     'return_to_invoice' => 'Zurück zur Rechnung',
